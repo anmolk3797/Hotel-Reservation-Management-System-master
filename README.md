@@ -12,7 +12,7 @@ In this app services like multiple Bookings in certain hotels are carried out. I
  
  Clone this repo in your system:
  ```
- git clone https://github.com/rub9542/Hotel-Reservation-management-system.git
+ git clone https://github.com/anmolk3797/Hotel-Reservation-Management-System-master.git
  ```
  Get inside the repo, type this is terminal:
  ```
